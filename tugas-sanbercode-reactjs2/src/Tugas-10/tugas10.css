@@ -1,0 +1,28 @@
+.tugas10 {
+    width: 60%;
+    margin: 20px auto;
+  }
+  .tugas10 h1 {
+    text-align: center;
+  }
+  
+  .tugas10 table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .tugas10 table td {
+    border: 1px solid white;
+    padding: 8px;
+    background-color: coral;
+  }
+  
+  .tugas10 table tr:first-child td {
+    background-color: gray;
+    text-align: center;
+    height: 30px;
+    font-weight: bold;
+    color: white;
+  }

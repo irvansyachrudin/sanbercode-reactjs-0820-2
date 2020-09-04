@@ -1,0 +1,27 @@
+.tugas9 {
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 25px;
+    margin: 20px auto;
+  }
+  
+  .tugas9 h1 {
+    text-align: center;
+  }
+  .tugas9 table {
+    width: 450px;
+    margin: auto;
+  }
+  .tugas9 table tr td {
+    width: 100px;
+    height: 50px;
+  }
+  .tugas9 table tr:nth-child(2) {
+    vertical-align: bottom;
+  }
+  .tugas9 button {
+    margin-top: 20px;
+    margin-left: 25px;
+    border-radius: 25px;
+  }
