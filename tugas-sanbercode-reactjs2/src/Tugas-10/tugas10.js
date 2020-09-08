@@ -9,6 +9,8 @@ let dataHargaBuah = [
     { nama: "Mangga", harga: 30000, berat: 500 },
 ];
 
+
+
 class tugas10 extends React.Component {
     render() {
         return (

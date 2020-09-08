@@ -26,3 +26,8 @@
     font-weight: bold;
     color: white;
   }
+
+  .photo {
+    height: 200px;
+    width: 200px;
+  }
